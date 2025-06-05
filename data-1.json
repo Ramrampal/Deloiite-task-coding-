@@ -1,0 +1,18 @@
+{
+  "telemetry": [
+    {
+      "device_id": "sensor_001",
+      "timestamp": "2023-10-15T14:30:25.123Z",
+      "temperature": 23.5,
+      "humidity": 65.2,
+      "pressure": 1013.25
+    },
+    {
+      "device_id": "sensor_002", 
+      "timestamp": "2023-10-15T14:31:25.456Z",
+      "temperature": 24.1,
+      "humidity": 62.8,
+      "pressure": 1012.87
+    }
+  ]
+}

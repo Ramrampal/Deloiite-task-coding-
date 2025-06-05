@@ -1,0 +1,18 @@
+{
+  "unified_telemetry": [
+    {
+      "device_id": "sensor_001",
+      "timestamp": 1697372225123,
+      "temperature": 23.5,
+      "humidity": 65.2,
+      "pressure": 1013.25
+    },
+    {
+      "device_id": "sensor_002",
+      "timestamp": 1697372285456,
+      "temperature": 24.1,
+      "humidity": 62.8,
+      "pressure": 1012.87
+    }
+  ]
+}
